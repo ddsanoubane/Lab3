@@ -12,3 +12,7 @@ def text_file():
 
 text_file()
 
+def helloWorld():
+	print(‘Hello World’)
+
+helloWorld()

@@ -11,3 +11,8 @@ def text_file():
     f.close
 
 text_file()
+
+def helloWorld():
+	print(‘Hello World’)
+
+helloWorld()
